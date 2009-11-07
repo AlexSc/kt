@@ -1,0 +1,5 @@
+*.pyc
+*.o
+parser/parser*
+parser/lexical_analyzer.cpp
+
